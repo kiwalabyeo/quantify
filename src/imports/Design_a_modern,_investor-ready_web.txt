@@ -1,0 +1,165 @@
+Design a modern, investor-ready web app prototype called “Quantify AI” for monitoring, managing, and analyzing carbon footprints for farmers and farm enterprises in Africa. The platform should support all farm types including crop farmers, dairy farmers, beef farmers, and agro-forestry farmers.
+
+Style:
+- Clean, professional, startup-quality SaaS interface
+- Modern dashboard aesthetic
+- Minimal but premium
+- Soft green, white, charcoal, and muted earth tones
+- Rounded cards, smooth spacing, clean charts
+- Mobile responsive but primarily desktop-first
+- Suitable for investor presentation
+- Use realistic dummy data and meaningful labels
+
+Goal of the platform:
+Help farmers and farm enterprises track farm activity data, convert it into carbon emissions using official emission factors, visualize their carbon footprint, receive AI-powered recommendations, forecast future emissions, and prepare reports that can support sustainability reporting and carbon credit claims.
+
+Main navigation:
+- Dashboard
+- Farm Data
+- Emissions
+- AI Insights
+- Forecasting
+- Reports
+- Carbon Credits
+- Admin
+
+Create the following screens:
+
+1. Landing Page
+- Hero section with headline: “Monitor and reduce farm carbon footprints with AI-powered insights”
+- Short value proposition
+- CTA buttons: “Request Demo” and “View Dashboard”
+- Sections for problem, solution, target market, benefits, and investors
+- Visual cards for crop, dairy, beef, and agro-forestry farms
+- Section showing how the system works in 3 steps: Input Data → Calculate Emissions → Get Insights
+- Testimonials / investor-friendly metrics
+- Footer
+
+2. Login / Signup Page
+- Simple modern auth layout
+- Sign in for farmers, farm enterprises, and admins
+
+3. Onboarding / Farm Registration
+- Farm name
+- Farm type dropdown: crop, dairy, beef, agro-forestry, mixed farm
+- Location
+- Farm size
+- Number of animals
+- Main crops
+- Energy sources
+- Transport modes
+- Save and continue
+
+4. Dashboard Overview
+- Total carbon footprint card (kg CO2e / tonnes CO2e)
+- Emissions by source cards: fertilizer, fuel, electricity, livestock, transport, waste
+- Line chart of monthly emissions
+- Pie chart of emissions by category
+- Top emission contributor card
+- Reduction opportunity card
+- Carbon credit readiness score
+- Recent activity table
+- Quick action buttons for Add Data, Generate Report, Ask AI
+
+5. Farm Activity Data Entry Screen
+- Form sections for:
+  - Fertilizer usage (kg)
+  - Pesticide usage
+  - Fuel consumption (liters)
+  - Electricity use (kWh)
+  - Water / irrigation usage
+  - Livestock counts
+  - Feed quantity
+  - Transport distance
+  - Waste / manure management
+  - Land use / crop area
+- Include date selectors and seasonal filters
+- Show automatic emission estimate preview in sidebar
+
+6. Emissions Analysis Page
+- Breakdown tables and charts showing emissions by category
+- Ability to filter by month, season, farm type, and activity source
+- Comparison view: current month vs previous month
+- Benchmark card: “highest contributor”
+- Trend indicators with up/down changes
+
+7. AI Insights Page
+- AI assistant panel with natural language prompt box
+- Suggested questions:
+  - “What caused emissions to increase this month?”
+  - “What is my biggest emission source?”
+  - “How can I reduce fertilizer-related emissions?”
+  - “Predict next quarter’s footprint”
+- Insight cards:
+  - anomaly detection
+  - reduction recommendations
+  - efficiency opportunities
+  - farm-specific advice
+- AI explanation area with simple readable summaries
+
+8. Forecasting Page
+- Predict future emissions using historical farm data
+- Line chart with actual vs predicted emissions
+- Scenario simulation cards:
+  - reduce fertilizer by 10%
+  - reduce diesel by 20%
+  - improve manure management
+  - switch to solar irrigation
+- Show projected carbon savings and financial efficiency implications
+
+9. Reports Page
+- Downloadable sustainability report layout
+- Monthly report summary
+- Total emissions
+- Emissions by source
+- Reduction progress
+- Forecast snapshot
+- Carbon credit claim readiness summary
+- Export buttons for PDF and CSV
+
+10. Carbon Credit Readiness Page
+- Checklist-style screen showing:
+  - activity data completeness
+  - evidence uploaded
+  - baseline established
+  - reduction trend documented
+  - reporting quality
+- Status badges like Ready / In Progress / Missing Data
+- Callout card: “Potential for future carbon credit claims”
+
+11. Admin / Emission Factors Management Screen
+- Table for official emission factors
+- Categories such as fertilizer, diesel, electricity, livestock, transport
+- Columns:
+  - activity type
+  - unit
+  - emission factor
+  - source document
+  - last updated
+- Add / edit factor modal
+- This screen should look professional and technical
+
+12. Investor Presentation Mock Screen
+- High-level platform metrics
+- Number of farms onboarded
+- Estimated emissions tracked
+- Potential reductions identified
+- Carbon credit opportunities
+- Market segments served
+- Include polished infographic sections suitable for a pitch demo
+
+UX notes:
+- Use realistic charts and farm-related data
+- Make the AI feel practical, not gimmicky
+- The product should look credible for African agriculture, climate tech, and carbon accounting
+- Avoid clutter
+- Prioritize trust, traceability, and clarity
+- Add small helper text showing that emissions are calculated from farm activity data and verified emission factors
+
+Brand feel:
+- Climate tech
+- Agri-tech
+- Trustworthy
+- Data-driven
+- Investor-ready
+- African-market friendly
