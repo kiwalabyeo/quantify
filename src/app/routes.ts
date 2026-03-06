@@ -38,7 +38,7 @@ export const router = createBrowserRouter([
       { path: "reports", Component: Reports },
       { path: "credits", Component: CarbonCredits },
       { path: "admin", Component: AdminFactors },
-      // { path: "investor", Component: InvestorMock },
+      { path: "investor", Component: InvestorMock },
     ],
   },
   {
