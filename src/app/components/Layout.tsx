@@ -26,7 +26,7 @@ const navItems = [
   { name: "Reports", path: "/dashboard/reports", icon: FileText },
   { name: "Carbon Credits", path: "/dashboard/credits", icon: Leaf },
   { name: "Admin", path: "/dashboard/admin", icon: Settings },
-  { name: "Investor Pitch", path: "/dashboard/investor", icon: Presentation },
+  // { name: "Investor Pitch", path: "/dashboard/investor", icon: Presentation },
 ];
 
 export function DashboardLayout() {
